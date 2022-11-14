@@ -71,5 +71,5 @@ You can find all the Python files divided for each point and the .pdf of the fin
 
 - Manuel Bressan [[Github](https://github.com/manubre98)] [[Email](mailto:manuel.bressan@mail.polimi.it)]
 - Davide Carrara [[Github](https://github.com/davidecarrara98)] [[Email](mailto:davide1.carrara@mail.polimi.it)]
-- Filippo Tombari [[Email](mailto:filippo.tombari@mail.polimi.it)]
+- Filippo Tombari [[Github](https://github.com/Filippo-Tombari)] [[Email](mailto:filippo.tombari@mail.polimi.it)]
 - Daniela Zanotti [[Github](https://github.com/DanielaZanotti)] [[Email](mailto:daniela1.zanotti@mail.polimi.it)]
